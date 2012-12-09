@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ADDINMENU addInID="StarUMLViews">
+    <BODY>
+        <MAINMENU>
+            <MAINITEM base="VIEW" caption="Create Diagrams" availableWhen="PROJECT_OPENED">
+							<MAINITEM caption="Class Context Diagram(s)" script="src\GenerateClassContextDiagrams.js"/>
+							<MAINITEM caption="Inheritance Diagram(s)" script="src\GenerateInheritanceDiagrams.js"/>
+							<MAINITEM caption="Package Overview Diagram(s)" script="src\GeneratePackageOverviewDiagrams.js"/>
+						</MAINITEM>
+        </MAINMENU>
+    </BODY>
+</ADDINMENU>

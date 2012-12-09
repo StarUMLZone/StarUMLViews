@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ADDIN>
+    <NAME>StarUMLViews</NAME>
+    <DISPLAYNAME>StarUMLViews</DISPLAYNAME>
+    <ISACTIVE>True</ISACTIVE>
+    <MENUFILE>StarUMLViews.mnu</MENUFILE>
+</ADDIN>
